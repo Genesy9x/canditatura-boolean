@@ -8,14 +8,15 @@ body{
 
 .back{
    position: absolute;
-   width: 1200px;
+   width: 65%;
+   height: 65%;
    margin-top: 2%;
    margin-bottom: 2%;
    margin-left: 19%;
    margin-right: 19%;
    background-color:#02020271;
-   padding-top: 100px;
-   padding-bottom: 100px;
+   padding-top: 8%;
+   padding-bottom: 120px;
    border-radius: 20px;
 }
 
